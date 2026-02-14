@@ -18,6 +18,12 @@ Java solutions for three coding problems.
 - Space Complexity: O(n)
 
 ---
+## Problem 3: Word Pattern
+- Uses two HashMaps to maintain bijection mapping.
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+
+---
 ## How to Run
 1. Compile:
     ```
@@ -27,10 +33,3 @@ Java solutions for three coding problems.
     ```
     java <ClassName>
     ```
-
-## Problem 3: Word Pattern
-- Uses two HashMaps to maintain bijection mapping.
-- Time Complexity: O(n)
-- Space Complexity: O(n)
-
----
