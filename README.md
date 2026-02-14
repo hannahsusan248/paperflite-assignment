@@ -18,6 +18,15 @@ Java solutions for three coding problems.
 - Space Complexity: O(n)
 
 ---
+## How to Run
+1. Compile:
+    ```
+    javac *.java
+    ```
+2. Run:
+    ```
+    java <ClassName>
+    ```
 
 ## Problem 3: Word Pattern
 - Uses two HashMaps to maintain bijection mapping.
