@@ -11,6 +11,12 @@ Input: nums = [1]
 Output: 1
 */
 
+/*
+ * Problem: Given an array where every element appears twice except one,
+ * find the single number.
+ * Approach: XOR all elements -> duplicates cancel out.
+ */
+
 //CODE
 
 //Use XOR Method
